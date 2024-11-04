@@ -1,7 +1,6 @@
- //STT: 39 (Example)
- //Full Name: X, With X is you, don’t need to find X anywhere else.
- //Homework - Exercise 01
- //Notes or Remarks: .....
+//Name: Trần Tịnh Đan Thanh
+//Student's ID: 22521368
+//Session 01 - Homework 03
 
 #include <iostream>
 #include <vector>
