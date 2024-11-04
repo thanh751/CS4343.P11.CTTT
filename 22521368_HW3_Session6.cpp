@@ -1,3 +1,6 @@
+//Name: Trần Tịnh Đan Thanh
+//Student's ID: 22521368
+//Session 06 - Homework 03
 #include <iostream>
 #include <vector>
 #include <string>
